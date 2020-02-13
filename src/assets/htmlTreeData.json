@@ -1,0 +1,591 @@
+ {
+  "key": "Адам",
+  "name": "Адам",
+  "lifetime": "930",
+  "childs": [
+    {
+      "key": "Каїн",
+      "name": "Каїн",
+      "lifetime": "900",
+      "parent": "Адам",
+      "childs": [
+        {
+          "key": "Енох",
+          "name": "Енох",
+          "parent": "Каїн",
+          "childs": []
+        },
+        {
+          "key": "Ірад",
+          "name": "Ірад",
+          "lifetime": "900",
+          "parent": "Каїн",
+          "childs": [
+            {
+              "key": "Мехуяїл",
+              "name": "Мехуяїл",
+              "lifetime": "900",
+              "parent": "Ірад",
+              "childs": [
+                {
+                  "key": "Метушаїл",
+                  "name": "Метушаїл",
+                  "lifetime": "900",
+                  "parent": "Мехуяїл",
+                  "childs": [
+                    {
+                      "key": "Ламех",
+                      "name": "Ламех",
+                      "lifetime": "900",
+                      "parent": "Метушаїл",
+                      "childs": [
+                        {
+                          "key": "Явал",
+                          "name": "Явал",
+                          "lifetime": "900",
+                          "parent": "Ламех",
+                          "childs": []
+                        },
+                        {
+                          "key": "Ювал",
+                          "name": "Ювал",
+                          "lifetime": "900",
+                          "parent": "Ламех",
+                          "childs": []
+                        },
+                        {
+                          "key": "Тувалкаїн",
+                          "name": "Тувалкаїн",
+                          "lifetime": "900",
+                          "parent": "Ламех",
+                          "childs": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "Авель",
+      "name": "Авель",
+      "lifetime": "900",
+      "parent": "Адам",
+      "childs": []
+    },
+    {
+      "key": "Сиф",
+      "name": "Сиф",
+      "lifetime": "912",
+      "parent": "Адам",
+      "childs": [
+        {
+          "key": "Енош",
+          "name": "Енош",
+          "lifetime": "905",
+          "parent": "Сиф",
+          "childs": [
+            {
+              "key": "Кенан",
+              "name": "Кенан",
+              "lifetime": "909",
+              "parent": "Енош",
+              "childs": [
+                {
+                  "key": "Магалал\"їл",
+                  "name": "Магалал\"їл",
+                  "lifetime": "895",
+                  "parent": "Кенан",
+                  "childs": [
+                    {
+                      "key": "Яред",
+                      "name": "Яред",
+                      "lifetime": "962",
+                      "parent": "Магалал\"їл",
+                      "childs": [
+                        {
+                          "key": "Енох",
+                          "name": "Енох",
+                          "lifetime": "365",
+                          "parent": "Яред",
+                          "childs": [
+                            {
+                              "key": "Метушалах",
+                              "name": "Метушалах",
+                              "lifetime": "969",
+                              "parent": "Енох",
+                              "childs": [
+                                {
+                                  "key": "Ламех",
+                                  "name": "Ламех",
+                                  "lifetime": "777",
+                                  "parent": "Метушалах",
+                                  "childs": [
+                                    {
+                                      "key": "Ной",
+                                      "name": "Ной",
+                                      "lifetime": "962",
+                                      "parent": "Ламех",
+                                      "childs": [
+                                        {
+                                          "key": "Сим",
+                                          "name": "Сим",
+                                          "lifetime": "962",
+                                          "parent": "Ной",
+                                          "childs": [
+                                            {
+                                              "key": "Елам",
+                                              "name": "Елам",
+                                              "lifetime": "",
+                                              "parent": "Сим",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Ашшур",
+                                              "name": "Ашшур",
+                                              "lifetime": "",
+                                              "parent": "Сим",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Арпахшад",
+                                              "name": "Арпахшад",
+                                              "lifetime": "",
+                                              "parent": "Сим",
+                                              "childs": [
+                                                {
+                                                  "key": "Шалах",
+                                                  "name": "Шалах",
+                                                  "lifetime": "",
+                                                  "parent": "Арпахшад",
+                                                  "childs": [
+                                                    {
+                                                      "key": "Евер",
+                                                      "name": "Евер",
+                                                      "lifetime": "",
+                                                      "parent": "Шалах",
+                                                      "childs": [
+                                                        {
+                                                          "key": "Пелеґ",
+                                                          "name": "Пелеґ",
+                                                          "lifetime": "",
+                                                          "parent": "Евер",
+                                                          "childs": [
+                                                            {
+                                                              "key": "Реу",
+                                                              "name": "Реу",
+                                                              "lifetime": "",
+                                                              "parent": "Пелеґ",
+                                                              "childs": [
+                                                                {
+                                                                  "key": "Серуґ",
+                                                                  "name": "Серуґ",
+                                                                  "lifetime": "",
+                                                                  "parent": "Реу",
+                                                                  "childs": [
+                                                                    {
+                                                                      "key": "Нахор",
+                                                                      "name": "Нахор",
+                                                                      "lifetime": "",
+                                                                      "parent": "Серуґ",
+                                                                      "childs": [
+                                                                        {
+                                                                          "key": "Терах",
+                                                                          "name": "Терах",
+                                                                          "lifetime": "",
+                                                                          "parent": "Нахор",
+                                                                          "childs": [
+                                                                            {
+                                                                              "key": "Авраам",
+                                                                              "name": "Аврам (Авраам)",
+                                                                              "lifetime": "",
+                                                                              "parent": "Терах",
+                                                                              "childs": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "key": "Йоктан",
+                                                          "name": "Йоктан",
+                                                          "lifetime": "",
+                                                          "parent": "Евер",
+                                                          "childs": [
+                                                            {
+                                                              "key": "Алмодад",
+                                                              "name": "Алмодад",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Шелеф",
+                                                              "name": "Шелеф",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Хацармавет",
+                                                              "name": "Хацармавет",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Єрах",
+                                                              "name": "Єрах",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Гадорам",
+                                                              "name": "Гадорам",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Узал",
+                                                              "name": "Узал",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Дікла",
+                                                              "name": "Дікла",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Евал",
+                                                              "name": "Евал",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Авімаїл",
+                                                              "name": "Авімаїл",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Шева Йоктанович",
+                                                              "name": "Шева",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Офір",
+                                                              "name": "Офір",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Хавіла",
+                                                              "name": "Хавіла",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            },
+                                                            {
+                                                              "key": "Йовав",
+                                                              "name": "Йовав",
+                                                              "lifetime": "",
+                                                              "parent": "Йоктан",
+                                                              "childs": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "Луд",
+                                              "name": "Луд",
+                                              "lifetime": "",
+                                              "parent": "Сим",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Арам",
+                                              "name": "Арам",
+                                              "lifetime": "",
+                                              "parent": "Сим",
+                                              "childs": [
+                                                {
+                                                  "key": "Уц",
+                                                  "name": "Уц",
+                                                  "lifetime": "",
+                                                  "parent": "Арам",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Хул",
+                                                  "name": "Хул",
+                                                  "lifetime": "",
+                                                  "parent": "Арам",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Ґетер",
+                                                  "name": "Ґетер",
+                                                  "lifetime": "",
+                                                  "parent": "Арам",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Мешех",
+                                                  "name": "Мешех",
+                                                  "lifetime": "",
+                                                  "parent": "Арам",
+                                                  "childs": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "Хам",
+                                          "name": "Хам",
+                                          "lifetime": "962",
+                                          "parent": "Ной",
+                                          "childs": [
+                                            {
+                                              "key": "Куш",
+                                              "name": "Куш",
+                                              "lifetime": "962",
+                                              "parent": "Хам",
+                                              "childs": [
+                                                {
+                                                  "key": "Шева",
+                                                  "name": "Шева",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Хавіла",
+                                                  "name": "Хавіла",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Савта",
+                                                  "name": "Савта",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Раама",
+                                                  "name": "Раама",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": [
+                                                    {
+                                                      "key": "Шева",
+                                                      "name": "Шева",
+                                                      "lifetime": "962",
+                                                      "parent": "Раама",
+                                                      "childs": []
+                                                    },
+                                                    {
+                                                      "key": "Дедан",
+                                                      "name": "Дедан",
+                                                      "lifetime": "962",
+                                                      "parent": "Раама",
+                                                      "childs": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "key": "Савтеха",
+                                                  "name": "Савтеха",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Німрод",
+                                                  "name": "Німрод",
+                                                  "lifetime": "962",
+                                                  "parent": "Куш",
+                                                  "childs": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "Міцраїм",
+                                              "name": "Міцраїм",
+                                              "lifetime": "962",
+                                              "parent": "Хам",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Пут",
+                                              "name": "Пут",
+                                              "lifetime": "962",
+                                              "parent": "Хам",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Ханаан",
+                                              "name": "Ханаан",
+                                              "lifetime": "962",
+                                              "parent": "Хам",
+                                              "childs": [
+                                                {
+                                                  "key": "Сидон",
+                                                  "name": "Сидон",
+                                                  "lifetime": "962",
+                                                  "parent": "Ханаан",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Хет",
+                                                  "name": "Хет",
+                                                  "lifetime": "",
+                                                  "parent": "Ханаан",
+                                                  "childs": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "key": "Яфет",
+                                          "name": "Яфет",
+                                          "lifetime": "962",
+                                          "parent": "Ной",
+                                          "childs": [
+                                            {
+                                              "key": "Ґомер",
+                                              "name": "Ґомер",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": [
+                                                {
+                                                  "key": "Ашкеназ",
+                                                  "name": "Ашкеназ",
+                                                  "lifetime": "962",
+                                                  "parent": "Ґомер",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Діфат",
+                                                  "name": "Діфат",
+                                                  "lifetime": "962",
+                                                  "parent": "Ґомер",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Тоґарма",
+                                                  "name": "Тоґарма",
+                                                  "lifetime": "962",
+                                                  "parent": "Ґомер",
+                                                  "childs": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "Маґоґ",
+                                              "name": "Маґоґ",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Мадай",
+                                              "name": "Мадай",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Яван",
+                                              "name": "Яван",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": [
+                                                {
+                                                  "key": "Еліша",
+                                                  "name": "Еліша",
+                                                  "lifetime": "962",
+                                                  "parent": "Яван",
+                                                  "childs": []
+                                                },
+                                                {
+                                                  "key": "Таршіша",
+                                                  "name": "Таршіша",
+                                                  "lifetime": "962",
+                                                  "parent": "Яван",
+                                                  "childs": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "key": "Тувал",
+                                              "name": "Тувал",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Мешех",
+                                              "name": "Мешех",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": []
+                                            },
+                                            {
+                                              "key": "Тірас",
+                                              "name": "Тірас",
+                                              "lifetime": "962",
+                                              "parent": "Яфет",
+                                              "childs": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
